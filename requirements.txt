@@ -2,3 +2,4 @@ jupyter-dash
 networkx
 matplotlib
 dash-cytoscape
+jupyter_server_proxy
